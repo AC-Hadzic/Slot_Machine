@@ -95,7 +95,7 @@ function igra()
         alert("GAME OVER LUZERU!");
     }
 }
-
+ 
 function getRandomInt() 
 {
     const minCeiled = Math.ceil(1);
